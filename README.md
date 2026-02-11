@@ -1,4 +1,4 @@
-<img width="2008" height="1648" alt="image" src="https://github.com/user-attachments/assets/912e3b3b-792a-45e8-9ace-63ae4297b6b4" /># -Smart-Supply-Chain-Analytics
+  -Smart-Supply-Chain-Analytics
 An end-to-end data engineering solution that optimizes global logistics. Features a Python ETL pipeline, a Star Schema SQL warehouse, and a Random Forest model to predict late delivery risks.
  
 
@@ -37,7 +37,7 @@ Business Question:What are the top 3 selling products in every region?*
 
  
 
-### 3. High-Value Customer Churn Risk (Query 15)
+### 3. High-Value Customer Churn Risk 
 Business Question:Who are our VIP customers (Spent > $5000) and are they receiving good service?
 > Insight: Identified 20 VIP customers who have experienced 3+ late deliveries and are at high risk of churning.
 > <img width="2055" height="1699" alt="image" src="https://github.com/user-attachments/assets/8f26628e-0e1f-4e03-b8a6-b41a3c1c8803" />
