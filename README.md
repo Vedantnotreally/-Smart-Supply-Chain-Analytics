@@ -1,6 +1,6 @@
   -Smart-Supply-Chain-Analytics
 An end-to-end data engineering solution that optimizes global logistics. Features a Python ETL pipeline, a Star Schema SQL warehouse, and a Random Forest model to predict late delivery risks.A Tableau dashboard inlcuded which displays business insights professionally.
- 
+  https://public.tableau.com/app/profile/vedant.sharma7827/viz/Supplychainanalytics_17708368952890/Dashboard1?publish=yes
 
 ##  Project Overview
 This project is an end-to-end data engineering and analytics solution designed to optimize a global supply chain. 
