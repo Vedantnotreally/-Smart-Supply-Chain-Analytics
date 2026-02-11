@@ -1,10 +1,11 @@
   -Smart-Supply-Chain-Analytics
-An end-to-end data engineering solution that optimizes global logistics. Features a Python ETL pipeline, a Star Schema SQL warehouse, and a Random Forest model to predict late delivery risks.
+An end-to-end data engineering solution that optimizes global logistics. Features a Python ETL pipeline, a Star Schema SQL warehouse, and a Random Forest model to predict late delivery risks.A Tableau dashboard inlcuded which displays business insights professionally.
  
 
 ##  Project Overview
 This project is an end-to-end data engineering and analytics solution designed to optimize a global supply chain. 
 I analyzed 180,000+ transaction recordsto identify delivery bottlenecks, predict late shipments using Machine Learning, and segment customers for targeted retention.
+Also created a Tableau dashboard to represent bussines insights
 
 **Business Goal:** Reduce late delivery risk and improve inventory placement.
 
